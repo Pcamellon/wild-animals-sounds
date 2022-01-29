@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>jaguar.txt</file>
+        <file>leopard.txt</file>
+        <file>lion.txt</file>
+        <file>snow leopard.txt</file>
+        <file>tiger.txt</file>
+    </qresource>
+</RCC>

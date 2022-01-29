@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>jaguar.wav</file>
+        <file>leopard.wav</file>
+        <file>lion.wav</file>
+        <file>pantera.wav</file>
+        <file>tiger.wav</file>
+    </qresource>
+</RCC>
